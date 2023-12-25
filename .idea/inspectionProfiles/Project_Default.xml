@@ -1,0 +1,93 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="73">
+            <item index="0" class="java.lang.String" itemvalue="PySimpleSOAP-mastergoogle-api-python-client==1.6.5" />
+            <item index="1" class="java.lang.String" itemvalue="libtoolbox" />
+            <item index="2" class="java.lang.String" itemvalue="six" />
+            <item index="3" class="java.lang.String" itemvalue="ecdsa" />
+            <item index="4" class="java.lang.String" itemvalue="pandas" />
+            <item index="5" class="java.lang.String" itemvalue="html5lib" />
+            <item index="6" class="java.lang.String" itemvalue="tenacity" />
+            <item index="7" class="java.lang.String" itemvalue="httplib2" />
+            <item index="8" class="java.lang.String" itemvalue="requests" />
+            <item index="9" class="java.lang.String" itemvalue="urllib3" />
+            <item index="10" class="java.lang.String" itemvalue="lxml" />
+            <item index="11" class="java.lang.String" itemvalue="numpy" />
+            <item index="12" class="java.lang.String" itemvalue="grummpy" />
+            <item index="13" class="java.lang.String" itemvalue="Django" />
+            <item index="14" class="java.lang.String" itemvalue="django-filter" />
+            <item index="15" class="java.lang.String" itemvalue="django" />
+            <item index="16" class="java.lang.String" itemvalue="dj-database-url" />
+            <item index="17" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="18" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="19" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="20" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="21" class="java.lang.String" itemvalue="coreapi" />
+            <item index="22" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="23" class="java.lang.String" itemvalue="django-bootstrap3" />
+            <item index="24" class="java.lang.String" itemvalue="celery" />
+            <item index="25" class="java.lang.String" itemvalue="django-localflavor" />
+            <item index="26" class="java.lang.String" itemvalue="django-redis" />
+            <item index="27" class="java.lang.String" itemvalue="django-appconf" />
+            <item index="28" class="java.lang.String" itemvalue="django-compressor" />
+            <item index="29" class="java.lang.String" itemvalue="django-storages" />
+            <item index="30" class="java.lang.String" itemvalue="django-waffle" />
+            <item index="31" class="java.lang.String" itemvalue="kombu" />
+            <item index="32" class="java.lang.String" itemvalue="drf-writable-nested" />
+            <item index="33" class="java.lang.String" itemvalue="django-webpack-loader" />
+            <item index="34" class="java.lang.String" itemvalue="django-safedelete" />
+            <item index="35" class="java.lang.String" itemvalue="uritemplate" />
+            <item index="36" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="37" class="java.lang.String" itemvalue="dj-rest-auth" />
+            <item index="38" class="java.lang.String" itemvalue="drf-haystack" />
+            <item index="39" class="java.lang.String" itemvalue="django-watchman" />
+            <item index="40" class="java.lang.String" itemvalue="geopy" />
+            <item index="41" class="java.lang.String" itemvalue="django-db-geventpool" />
+            <item index="42" class="java.lang.String" itemvalue="greenlet" />
+            <item index="43" class="java.lang.String" itemvalue="django-constance" />
+            <item index="44" class="java.lang.String" itemvalue="django-elasticsearch-dsl-drf" />
+            <item index="45" class="java.lang.String" itemvalue="newrelic" />
+            <item index="46" class="java.lang.String" itemvalue="easy-choices" />
+            <item index="47" class="java.lang.String" itemvalue="mozilla-django-oidc" />
+            <item index="48" class="java.lang.String" itemvalue="elasticsearch" />
+            <item index="49" class="java.lang.String" itemvalue="freezegun" />
+            <item index="50" class="java.lang.String" itemvalue="grpcio-status" />
+            <item index="51" class="java.lang.String" itemvalue="gevent" />
+            <item index="52" class="java.lang.String" itemvalue="drf-extra-fields" />
+            <item index="53" class="java.lang.String" itemvalue="xlrd" />
+            <item index="54" class="java.lang.String" itemvalue="WeasyPrint" />
+            <item index="55" class="java.lang.String" itemvalue="django-simple-history" />
+            <item index="56" class="java.lang.String" itemvalue="django-import-export" />
+            <item index="57" class="java.lang.String" itemvalue="django-shortuuidfield" />
+            <item index="58" class="java.lang.String" itemvalue="django-dirtyfields" />
+            <item index="59" class="java.lang.String" itemvalue="simplejson" />
+            <item index="60" class="java.lang.String" itemvalue="hiredis" />
+            <item index="61" class="java.lang.String" itemvalue="tqdm" />
+            <item index="62" class="java.lang.String" itemvalue="google-cloud-build" />
+            <item index="63" class="java.lang.String" itemvalue="elasticsearch-dsl" />
+            <item index="64" class="java.lang.String" itemvalue="django-frontend-settings" />
+            <item index="65" class="java.lang.String" itemvalue="django-elasticsearch-dsl" />
+            <item index="66" class="java.lang.String" itemvalue="django-admin-rangefilter" />
+            <item index="67" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="68" class="java.lang.String" itemvalue="sphinxcontrib-kroki" />
+            <item index="69" class="java.lang.String" itemvalue="sphinx-autobuild" />
+            <item index="70" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="71" class="java.lang.String" itemvalue="markupsafe" />
+            <item index="72" class="java.lang.String" itemvalue="sphinxcontrib-rfcs" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E203" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
