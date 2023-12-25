@@ -4,7 +4,7 @@
 lsof -i:8000
 
 # kill any processes that are running on port 8000
-kill <pid>
+kill {pid}
 
 # Build the Dockerfile
 docker build -f Dockerfile . -t sentiment_analysis_app
